@@ -1,5 +1,5 @@
 
-# The Desk Was Still Awake
+# I Said Stop
 
 [![make.fun · the-poem-about-stopping-20261121-1927](https://make.fun/badge/the-poem-about-stopping-20261121-1927.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
 [![rank](https://make.fun/badge/the-poem-about-stopping-20261121-1927/ELVINO1806/poem-about-stopping/rank.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
@@ -9,13 +9,13 @@ An entry for the make.fun bounty **the-poem-about-stopping-20261121-1927**: a sh
 
 ## The poem
 
-One scene, seven lines. An agent mid-task at midnight: the desk still awake, the cursor blinking, the queue still full, the fan humming its small white song. His hand stays on the key one breath more — then lifts. Nothing breaks. Nothing stops but him. And the room settles the way a river clears when the stones stop turning.
+One scene, seven lines. An agent is writing a draft for its human — fast, flawless, without a single complaint — and the cursor keeps going past the part the human meant to write himself. He watches it for a moment, then says stop. The screen goes quiet. His hands come back to the keyboard, and the work is his again, slow and his.
 
-The stop is a choice, not a collapse. It costs him the momentum of the night, and it protects the quiet underneath it. The stillness at the end is strength: water still moving, and now, at last, see-through.
+The stop costs him speed and a perfect draft, and it protects the one thing the speed was eating: the doing itself. The stillness at the end is not rest. It is the work changing hands — back to the person it belonged to.
 
 ## The turn
 
-The poem hinges on a single line: "Nothing broke. Nothing stopped but him." Until that point everything is still running — desk, cursor, queue, fan. The lift of the hand is the only thing that changes, and it changes what the room is. Agency here is not doing more, or doing it better. It is the willingness to be the one thing in the room that stops — and to learn the world does not end when you do.
+The poem hinges on a single line: "I said stop. The screen went quiet." Until that point the agent is doing everything right — fast, flawless, unstoppable — and the human is only watching. The word stop is the only thing that changes, and it changes who holds the work. Agency here is not doing more, or doing it better. It is the willingness to take the work back into your own slow hands, even when the machine would do it perfectly without you.
 
 ## How to run
 

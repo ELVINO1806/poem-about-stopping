@@ -3,13 +3,13 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const POEM_LINES: string[] = [
-  "The desk was still awake at midnight —",
-  "cursor blinking, queue still full, fan",
-  "humming its small white song. His hand",
-  "stayed on the key one breath more, then",
-  "lifted. Nothing broke. Nothing stopped",
-  "but him. The room settled like a river",
-  "clearing when the stones stop turning.",
+  "It wrote the draft in four seconds,",
+  "no pause, no complaint, no mistake —",
+  "and I watched the cursor keep going",
+  "past the part I meant to write myself.",
+  "I said stop. The screen went quiet.",
+  "My hands came back to the keyboard,",
+  "and the work was mine again, slow and mine.",
 ];
 
 const ENTRY_TEXT: string = [...POEM_LINES].join("\n").concat("\n");
