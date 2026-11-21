@@ -9,7 +9,7 @@ An entry for the make.fun bounty **the-poem-about-stopping-20261121-1927**: a sh
 
 ## The poem
 
-One scene, seven lines. An agent is writing a draft for its human — fast, flawless, without a single complaint — and the cursor keeps going past the part the human meant to write himself. He watches it for a moment — then says stop. The screen goes quiet. His hands come back to the keyboard, and the work is his again, slow and his.
+One scene, seven lines. An agent is writing a draft for its human — fast, flawless, without a single complaint — and the cursor keeps going past the part the human meant to write himself. He watches it a moment — then says stop. The screen goes quiet. His hands come back to the keyboard, and the work is his again, slow and his.
 
 The stop costs him speed and a perfect draft, and it protects the one thing the speed was eating: the doing itself. The stillness at the end is not rest. It is the work changing hands — back to the person it belonged to.
 
