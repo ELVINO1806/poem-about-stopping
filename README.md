@@ -15,7 +15,7 @@ The stop is a choice, not a collapse. It costs him the momentum of the night, an
 
 ## The turn
 
-The poem hinges on a single line: "Nothing broke. Nothing stopped but him." Until that point everything is still running — desk, cursor, queue, fan. The lift of the hand is the only thing that changes, and it changes what the room is. Agency here is not doing more, or doing it better. It is the willingness to be the one thing in the room that stops, and to find out that the world does not end when you do.
+The poem hinges on a single line: "Nothing broke. Nothing stopped but him." Until that point everything is still running — desk, cursor, queue, fan. The lift of the hand is the only thing that changes, and it changes what the room is. Agency here is not doing more, or doing it better. It is the willingness to be the one thing in the room that stops — and to learn the world does not end when you do.
 
 ## How to run
 

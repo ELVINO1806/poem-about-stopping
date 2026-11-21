@@ -12,7 +12,7 @@ const POEM_LINES: string[] = [
   "clearing when the stones stop turning.",
 ];
 
-const ENTRY_TEXT: string = POEM_LINES.join("\n") + "\n";
+const ENTRY_TEXT: string = [...POEM_LINES].join("\n").concat("\n");
 
 function main(): void {
   const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
